@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\bin\Debug\net5.0\console-metotlar-overloading.exe
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\bin\Debug\net5.0\console-metotlar-overloading.deps.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\bin\Debug\net5.0\console-metotlar-overloading.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\bin\Debug\net5.0\console-metotlar-overloading.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\bin\Debug\net5.0\console-metotlar-overloading.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\bin\Debug\net5.0\console-metotlar-overloading.pdb
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\console-metotlar-overloading.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\console-metotlar-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\console-metotlar-overloading.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\console-metotlar-overloading.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\console-metotlar-overloading.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\console-metotlar-overloading.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\refint\console-metotlar-overloading.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\console-metotlar-overloading.pdb
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\console-metotlar-overloading.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar-overloading\obj\Debug\net5.0\ref\console-metotlar-overloading.dll

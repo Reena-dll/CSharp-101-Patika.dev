@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ApGJRr80S0xsLNN1ROO6TmOSAbsQSzxx/jsjPgwwaaPgBkmxwGKGpCYbKN7gh2udzREJlv1wTqboXI9hJFP7AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-metotlar-overloading\\console-metotlar-overloading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

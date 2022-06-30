@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9je2c5m0JrCqKssz5p3Yv83EbWl3C4Bfc4hbOyrxdA5Nv5UDLCn+6pZ/CoSRfAnUXbT1zQneZ8Or1/7SlALpJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-metotlar-recursive-extension\\console-metotlar-recursive-extension.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

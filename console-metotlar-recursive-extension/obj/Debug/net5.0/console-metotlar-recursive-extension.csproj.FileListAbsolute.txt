@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\bin\Debug\net5.0\console-metotlar-recursive-extension.exe
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\bin\Debug\net5.0\console-metotlar-recursive-extension.deps.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\bin\Debug\net5.0\console-metotlar-recursive-extension.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\bin\Debug\net5.0\console-metotlar-recursive-extension.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\bin\Debug\net5.0\console-metotlar-recursive-extension.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\bin\Debug\net5.0\console-metotlar-recursive-extension.pdb
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\console-metotlar-recursive-extension.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\console-metotlar-recursive-extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\console-metotlar-recursive-extension.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\console-metotlar-recursive-extension.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\console-metotlar-recursive-extension.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\console-metotlar-recursive-extension.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\refint\console-metotlar-recursive-extension.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\console-metotlar-recursive-extension.pdb
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\console-metotlar-recursive-extension.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar-recursive-extension\obj\Debug\net5.0\ref\console-metotlar-recursive-extension.dll

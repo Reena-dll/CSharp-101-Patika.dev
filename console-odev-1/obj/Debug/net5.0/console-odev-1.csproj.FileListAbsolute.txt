@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-odev-1\bin\Debug\net5.0\console-odev-1.exe
+C:\Users\Reena\Desktop\C#-101\console-odev-1\bin\Debug\net5.0\console-odev-1.deps.json
+C:\Users\Reena\Desktop\C#-101\console-odev-1\bin\Debug\net5.0\console-odev-1.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-odev-1\bin\Debug\net5.0\console-odev-1.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-odev-1\bin\Debug\net5.0\console-odev-1.dll
+C:\Users\Reena\Desktop\C#-101\console-odev-1\bin\Debug\net5.0\console-odev-1.pdb
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\console-odev-1.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\console-odev-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\console-odev-1.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\console-odev-1.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\console-odev-1.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\console-odev-1.dll
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\refint\console-odev-1.dll
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\console-odev-1.pdb
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\console-odev-1.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-odev-1\obj\Debug\net5.0\ref\console-odev-1.dll
