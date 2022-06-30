@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-switchCase\bin\Debug\net5.0\console-switchCase.exe
+C:\Users\Reena\Desktop\C#-101\console-switchCase\bin\Debug\net5.0\console-switchCase.deps.json
+C:\Users\Reena\Desktop\C#-101\console-switchCase\bin\Debug\net5.0\console-switchCase.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-switchCase\bin\Debug\net5.0\console-switchCase.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-switchCase\bin\Debug\net5.0\console-switchCase.dll
+C:\Users\Reena\Desktop\C#-101\console-switchCase\bin\Debug\net5.0\console-switchCase.pdb
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\console-switchCase.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\console-switchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\console-switchCase.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\console-switchCase.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\console-switchCase.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\console-switchCase.dll
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\refint\console-switchCase.dll
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\console-switchCase.pdb
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\console-switchCase.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-switchCase\obj\Debug\net5.0\ref\console-switchCase.dll

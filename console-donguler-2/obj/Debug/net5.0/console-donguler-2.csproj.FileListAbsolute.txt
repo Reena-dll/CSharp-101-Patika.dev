@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\bin\Debug\net5.0\console-donguler-2.exe
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\bin\Debug\net5.0\console-donguler-2.deps.json
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\bin\Debug\net5.0\console-donguler-2.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\bin\Debug\net5.0\console-donguler-2.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\bin\Debug\net5.0\console-donguler-2.dll
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\bin\Debug\net5.0\console-donguler-2.pdb
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\console-donguler-2.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\console-donguler-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\console-donguler-2.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\console-donguler-2.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\console-donguler-2.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\console-donguler-2.dll
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\refint\console-donguler-2.dll
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\console-donguler-2.pdb
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\console-donguler-2.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-donguler-2\obj\Debug\net5.0\ref\console-donguler-2.dll

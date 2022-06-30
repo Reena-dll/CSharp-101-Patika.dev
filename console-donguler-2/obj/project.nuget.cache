@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lYwLpaAXnVdJHGQz1m2/y3V92ySaaEbesVIhpp1ZAhHm+UF5X9TbWqh1eQe71//Hx7X5DdU0jRp5mELlQCXLxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-donguler-2\\console-donguler-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
