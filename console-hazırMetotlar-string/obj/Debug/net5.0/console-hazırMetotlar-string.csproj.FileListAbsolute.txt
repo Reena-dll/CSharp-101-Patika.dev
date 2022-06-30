@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\bin\Debug\net5.0\console-hazırMetotlar-string.exe
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\bin\Debug\net5.0\console-hazırMetotlar-string.deps.json
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\bin\Debug\net5.0\console-hazırMetotlar-string.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\bin\Debug\net5.0\console-hazırMetotlar-string.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\bin\Debug\net5.0\console-hazırMetotlar-string.dll
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\bin\Debug\net5.0\console-hazırMetotlar-string.pdb
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\console-hazırMetotlar-string.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\console-hazırMetotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\console-hazırMetotlar-string.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\console-hazırMetotlar-string.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\console-hazırMetotlar-string.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\console-hazırMetotlar-string.dll
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\refint\console-hazırMetotlar-string.dll
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\console-hazırMetotlar-string.pdb
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\console-hazırMetotlar-string.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-hazırMetotlar-string\obj\Debug\net5.0\ref\console-hazırMetotlar-string.dll
