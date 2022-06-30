@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\console-tipDonusumler.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\console-tipDonusumler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\console-tipDonusumler.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\console-tipDonusumler.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\console-tipDonusumler.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\bin\Debug\net5.0\console-tipDonusumler.exe
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\bin\Debug\net5.0\console-tipDonusumler.deps.json
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\bin\Debug\net5.0\console-tipDonusumler.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\bin\Debug\net5.0\console-tipDonusumler.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\bin\Debug\net5.0\console-tipDonusumler.dll
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\bin\Debug\net5.0\console-tipDonusumler.pdb
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\console-tipDonusumler.dll
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\refint\console-tipDonusumler.dll
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\console-tipDonusumler.pdb
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\console-tipDonusumler.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-tipDonusumler\obj\Debug\net5.0\ref\console-tipDonusumler.dll

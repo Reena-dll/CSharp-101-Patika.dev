@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\console-tryCath.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\console-tryCath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\console-tryCath.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\console-tryCath.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\console-tryCath.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-tryCath\bin\Debug\net5.0\console-tryCath.exe
+C:\Users\Reena\Desktop\C#-101\console-tryCath\bin\Debug\net5.0\console-tryCath.deps.json
+C:\Users\Reena\Desktop\C#-101\console-tryCath\bin\Debug\net5.0\console-tryCath.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-tryCath\bin\Debug\net5.0\console-tryCath.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-tryCath\bin\Debug\net5.0\console-tryCath.dll
+C:\Users\Reena\Desktop\C#-101\console-tryCath\bin\Debug\net5.0\console-tryCath.pdb
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\console-tryCath.dll
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\refint\console-tryCath.dll
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\console-tryCath.pdb
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\console-tryCath.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-tryCath\obj\Debug\net5.0\ref\console-tryCath.dll
