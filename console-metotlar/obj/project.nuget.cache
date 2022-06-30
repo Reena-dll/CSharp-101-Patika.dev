@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1iunEUsC+C7JcPafAMsqueFKZZOIF6aHCTugudwVI9TL8h9kRMOx8CTzrJVRBEKbyzGCAunpk1ix4YpLdBOGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-metotlar\\console-metotlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

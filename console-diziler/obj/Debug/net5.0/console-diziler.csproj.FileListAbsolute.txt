@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-diziler\bin\Debug\net5.0\console-diziler.exe
+C:\Users\Reena\Desktop\C#-101\console-diziler\bin\Debug\net5.0\console-diziler.deps.json
+C:\Users\Reena\Desktop\C#-101\console-diziler\bin\Debug\net5.0\console-diziler.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-diziler\bin\Debug\net5.0\console-diziler.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-diziler\bin\Debug\net5.0\console-diziler.dll
+C:\Users\Reena\Desktop\C#-101\console-diziler\bin\Debug\net5.0\console-diziler.pdb
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\console-diziler.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\console-diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\console-diziler.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\console-diziler.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\console-diziler.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\console-diziler.dll
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\refint\console-diziler.dll
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\console-diziler.pdb
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\console-diziler.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-diziler\obj\Debug\net5.0\ref\console-diziler.dll

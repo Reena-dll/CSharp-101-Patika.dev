@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "edblWTrCx0MUgTzegFVr2/yncvMi5SK0VgD5YpuViZ802GdqzEoWo4aNfVjtLuhUgIyMsglPZ0vYdasWrBZu+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-diziler\\console-diziler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

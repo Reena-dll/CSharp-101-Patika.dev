@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-metotlar\bin\Debug\net5.0\console-metotlar.exe
+C:\Users\Reena\Desktop\C#-101\console-metotlar\bin\Debug\net5.0\console-metotlar.deps.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar\bin\Debug\net5.0\console-metotlar.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar\bin\Debug\net5.0\console-metotlar.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-metotlar\bin\Debug\net5.0\console-metotlar.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar\bin\Debug\net5.0\console-metotlar.pdb
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\console-metotlar.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\console-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\console-metotlar.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\console-metotlar.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\console-metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\console-metotlar.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\refint\console-metotlar.dll
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\console-metotlar.pdb
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\console-metotlar.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-metotlar\obj\Debug\net5.0\ref\console-metotlar.dll
