@@ -1,0 +1,15 @@
+C:\Users\Reena\Desktop\C#-101\console-project\bin\Debug\net6.0\console-project.exe
+C:\Users\Reena\Desktop\C#-101\console-project\bin\Debug\net6.0\console-project.deps.json
+C:\Users\Reena\Desktop\C#-101\console-project\bin\Debug\net6.0\console-project.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-project\bin\Debug\net6.0\console-project.dll
+C:\Users\Reena\Desktop\C#-101\console-project\bin\Debug\net6.0\console-project.pdb
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\console-project.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\console-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\console-project.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\console-project.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\console-project.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\console-project.dll
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\refint\console-project.dll
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\console-project.pdb
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\console-project.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-project\obj\Debug\net6.0\ref\console-project.dll

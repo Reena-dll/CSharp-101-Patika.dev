@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-operatorler\bin\Debug\net5.0\console-operatorler.exe
+C:\Users\Reena\Desktop\C#-101\console-operatorler\bin\Debug\net5.0\console-operatorler.deps.json
+C:\Users\Reena\Desktop\C#-101\console-operatorler\bin\Debug\net5.0\console-operatorler.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-operatorler\bin\Debug\net5.0\console-operatorler.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-operatorler\bin\Debug\net5.0\console-operatorler.dll
+C:\Users\Reena\Desktop\C#-101\console-operatorler\bin\Debug\net5.0\console-operatorler.pdb
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\console-operatorler.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\console-operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\console-operatorler.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\console-operatorler.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\console-operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\console-operatorler.dll
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\refint\console-operatorler.dll
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\console-operatorler.pdb
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\console-operatorler.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-operatorler\obj\Debug\net5.0\ref\console-operatorler.dll
