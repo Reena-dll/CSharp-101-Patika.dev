@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2uFxtuqs/c5HXa0N7wNyaujcSwcj31rQbsS5pGy4HbtY4h8JD+GCZF4qF+GZiYorgaGYZ8W62swDUonf/eVX/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-hazirMetotlar-DateTime-Math\\console-hazirMetotlar-DateTime-Math.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

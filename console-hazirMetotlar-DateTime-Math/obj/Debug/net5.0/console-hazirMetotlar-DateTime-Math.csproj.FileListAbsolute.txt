@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\bin\Debug\net5.0\console-hazirMetotlar-DateTime-Math.exe
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\bin\Debug\net5.0\console-hazirMetotlar-DateTime-Math.deps.json
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\bin\Debug\net5.0\console-hazirMetotlar-DateTime-Math.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\bin\Debug\net5.0\console-hazirMetotlar-DateTime-Math.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\bin\Debug\net5.0\console-hazirMetotlar-DateTime-Math.dll
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\bin\Debug\net5.0\console-hazirMetotlar-DateTime-Math.pdb
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\console-hazirMetotlar-DateTime-Math.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\console-hazirMetotlar-DateTime-Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\console-hazirMetotlar-DateTime-Math.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\console-hazirMetotlar-DateTime-Math.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\console-hazirMetotlar-DateTime-Math.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\console-hazirMetotlar-DateTime-Math.dll
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\refint\console-hazirMetotlar-DateTime-Math.dll
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\console-hazirMetotlar-DateTime-Math.pdb
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\console-hazirMetotlar-DateTime-Math.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-hazirMetotlar-DateTime-Math\obj\Debug\net5.0\ref\console-hazirMetotlar-DateTime-Math.dll
