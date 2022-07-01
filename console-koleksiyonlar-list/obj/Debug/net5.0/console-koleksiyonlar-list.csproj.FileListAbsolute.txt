@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\bin\Debug\net5.0\console-koleksiyonlar-list.exe
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\bin\Debug\net5.0\console-koleksiyonlar-list.deps.json
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\bin\Debug\net5.0\console-koleksiyonlar-list.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\bin\Debug\net5.0\console-koleksiyonlar-list.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\bin\Debug\net5.0\console-koleksiyonlar-list.dll
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\bin\Debug\net5.0\console-koleksiyonlar-list.pdb
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\console-koleksiyonlar-list.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\console-koleksiyonlar-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\console-koleksiyonlar-list.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\console-koleksiyonlar-list.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\console-koleksiyonlar-list.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\console-koleksiyonlar-list.dll
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\refint\console-koleksiyonlar-list.dll
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\console-koleksiyonlar-list.pdb
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\console-koleksiyonlar-list.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-list\obj\Debug\net5.0\ref\console-koleksiyonlar-list.dll
