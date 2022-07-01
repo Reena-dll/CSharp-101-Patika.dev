@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D99ZqMc7hgmWrg1H3mnbl31c43efhb9eBEs7wzxyPQz0axquJ2ugU9T3UmU/p2l8dOSEB1EzzvJZntgN7+PCiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-odev-2\\console-odev-2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
