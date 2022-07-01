@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\bin\Debug\net5.0\console-koleksiyonlar-ArrayList.exe
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\bin\Debug\net5.0\console-koleksiyonlar-ArrayList.deps.json
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\bin\Debug\net5.0\console-koleksiyonlar-ArrayList.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\bin\Debug\net5.0\console-koleksiyonlar-ArrayList.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\bin\Debug\net5.0\console-koleksiyonlar-ArrayList.dll
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\bin\Debug\net5.0\console-koleksiyonlar-ArrayList.pdb
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\console-koleksiyonlar-ArrayList.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\console-koleksiyonlar-ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\console-koleksiyonlar-ArrayList.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\console-koleksiyonlar-ArrayList.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\console-koleksiyonlar-ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\console-koleksiyonlar-ArrayList.dll
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\refint\console-koleksiyonlar-ArrayList.dll
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\console-koleksiyonlar-ArrayList.pdb
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\console-koleksiyonlar-ArrayList.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-koleksiyonlar-ArrayList\obj\Debug\net5.0\ref\console-koleksiyonlar-ArrayList.dll
