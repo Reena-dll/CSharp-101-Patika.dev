@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\bin\Debug\net5.0\console-class-staticSinif.exe
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\bin\Debug\net5.0\console-class-staticSinif.deps.json
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\bin\Debug\net5.0\console-class-staticSinif.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\bin\Debug\net5.0\console-class-staticSinif.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\bin\Debug\net5.0\console-class-staticSinif.dll
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\bin\Debug\net5.0\console-class-staticSinif.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\console-class-staticSinif.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\console-class-staticSinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\console-class-staticSinif.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\console-class-staticSinif.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\console-class-staticSinif.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\console-class-staticSinif.dll
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\refint\console-class-staticSinif.dll
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\console-class-staticSinif.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\console-class-staticSinif.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-class-staticSinif\obj\Debug\net5.0\ref\console-class-staticSinif.dll

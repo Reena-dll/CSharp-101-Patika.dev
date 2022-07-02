@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6phoEUg+6RgvwhpXKCx4MvqsY4haZykzioUjLN2H0IZ77q6ZM7SZY91tmgb9wadxZHErzzGf3jyvzjtHYvCEPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-class-staticSinif\\console-class-staticSinif.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
