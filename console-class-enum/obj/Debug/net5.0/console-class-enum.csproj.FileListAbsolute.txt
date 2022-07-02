@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-class-enum\bin\Debug\net5.0\console-class-enum.exe
+C:\Users\Reena\Desktop\C#-101\console-class-enum\bin\Debug\net5.0\console-class-enum.deps.json
+C:\Users\Reena\Desktop\C#-101\console-class-enum\bin\Debug\net5.0\console-class-enum.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-class-enum\bin\Debug\net5.0\console-class-enum.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-class-enum\bin\Debug\net5.0\console-class-enum.dll
+C:\Users\Reena\Desktop\C#-101\console-class-enum\bin\Debug\net5.0\console-class-enum.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\console-class-enum.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\console-class-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\console-class-enum.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\console-class-enum.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\console-class-enum.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\console-class-enum.dll
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\refint\console-class-enum.dll
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\console-class-enum.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\console-class-enum.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-class-enum\obj\Debug\net5.0\ref\console-class-enum.dll

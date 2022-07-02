@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-class-struct\bin\Debug\net5.0\console-class-struct.exe
+C:\Users\Reena\Desktop\C#-101\console-class-struct\bin\Debug\net5.0\console-class-struct.deps.json
+C:\Users\Reena\Desktop\C#-101\console-class-struct\bin\Debug\net5.0\console-class-struct.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-class-struct\bin\Debug\net5.0\console-class-struct.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-class-struct\bin\Debug\net5.0\console-class-struct.dll
+C:\Users\Reena\Desktop\C#-101\console-class-struct\bin\Debug\net5.0\console-class-struct.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\console-class-struct.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\console-class-struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\console-class-struct.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\console-class-struct.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\console-class-struct.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\console-class-struct.dll
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\refint\console-class-struct.dll
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\console-class-struct.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\console-class-struct.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-class-struct\obj\Debug\net5.0\ref\console-class-struct.dll

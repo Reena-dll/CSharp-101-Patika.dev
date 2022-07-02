@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQgjgbeBds2uYWr7Yo7ycKJPtqpPQYlEDFNgY4eQH9izLAHodetOxydzxlJ5Ukazz3EZuGRytd4fj3MSP0X7Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-class-enum\\console-class-enum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzuA28cZWkf5+PvyeYIY3/bhZJ5AeNV+hEduODfnqBVa6ojrtdaj0nEPezEOe6kWE3SGY28Pc15pJ08uDL9bFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-class-struct\\console-class-struct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
