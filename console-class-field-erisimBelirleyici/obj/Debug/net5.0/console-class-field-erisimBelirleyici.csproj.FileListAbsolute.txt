@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\bin\Debug\net5.0\console-class-field-erisimBelirleyici.exe
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\bin\Debug\net5.0\console-class-field-erisimBelirleyici.deps.json
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\bin\Debug\net5.0\console-class-field-erisimBelirleyici.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\bin\Debug\net5.0\console-class-field-erisimBelirleyici.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\bin\Debug\net5.0\console-class-field-erisimBelirleyici.dll
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\bin\Debug\net5.0\console-class-field-erisimBelirleyici.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\console-class-field-erisimBelirleyici.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\console-class-field-erisimBelirleyici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\console-class-field-erisimBelirleyici.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\console-class-field-erisimBelirleyici.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\console-class-field-erisimBelirleyici.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\console-class-field-erisimBelirleyici.dll
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\refint\console-class-field-erisimBelirleyici.dll
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\console-class-field-erisimBelirleyici.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\console-class-field-erisimBelirleyici.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-class-field-erisimBelirleyici\obj\Debug\net5.0\ref\console-class-field-erisimBelirleyici.dll
