@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3OAQk5PqAYgZRaBpyzxjaeBd4Uw+fdU2HEyf6BeWTjpuHOaGmitOm88WRG3q3dYE0npD9NzVNSfIhu/0A0rD6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Reena\\Desktop\\C#-101\\console-class-encapsulation-property\\console-class-encapsulation-property.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Reena\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

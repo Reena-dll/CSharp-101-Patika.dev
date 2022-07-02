@@ -1,0 +1,16 @@
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\bin\Debug\net5.0\console-class-encapsulation-property.exe
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\bin\Debug\net5.0\console-class-encapsulation-property.deps.json
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\bin\Debug\net5.0\console-class-encapsulation-property.runtimeconfig.json
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\bin\Debug\net5.0\console-class-encapsulation-property.runtimeconfig.dev.json
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\bin\Debug\net5.0\console-class-encapsulation-property.dll
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\bin\Debug\net5.0\console-class-encapsulation-property.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\console-class-encapsulation-property.csproj.AssemblyReference.cache
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\console-class-encapsulation-property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\console-class-encapsulation-property.AssemblyInfoInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\console-class-encapsulation-property.AssemblyInfo.cs
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\console-class-encapsulation-property.csproj.CoreCompileInputs.cache
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\console-class-encapsulation-property.dll
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\refint\console-class-encapsulation-property.dll
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\console-class-encapsulation-property.pdb
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\console-class-encapsulation-property.genruntimeconfig.cache
+C:\Users\Reena\Desktop\C#-101\console-class-encapsulation-property\obj\Debug\net5.0\ref\console-class-encapsulation-property.dll
